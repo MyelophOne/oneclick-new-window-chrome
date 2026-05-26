@@ -1,0 +1,46 @@
+{
+  "extensionName": {
+    "message": "OneClick New Window",
+    "description": "Nome da extensão"
+  },
+  "extensionDescription": {
+    "message": "Abre uma nova janela do navegador com um único clique",
+    "description": "Descrição da extensão"
+  },
+  "actionTitle": {
+    "message": "Nova janela",
+    "description": "Título exibido ao passar o cursor sobre o ícone da extensão"
+  },
+  "optionsTitle": {
+    "message": "Configurações do OneClick New Window",
+    "description": "Título da página de opções"
+  },
+  "optionsThemeLabel": {
+    "message": "Tema do ícone:",
+    "description": "Rótulo para o menu suspenso de seleção de tema"
+  },
+  "optionsThemeLight": {
+    "message": "Tema de ícone claro",
+    "description": "Opção para o ícone de tema claro"
+  },
+  "optionsThemeDark": {
+    "message": "Tema de ícone escuro",
+    "description": "Opção para o ícone de tema escuro"
+  },
+  "optionsThemeDescription": {
+    "message": "Escolha qual ícone exibir para o botão da extensão.",
+    "description": "Texto de descrição abaixo da seleção de tema"
+  },
+  "saveButton": {
+    "message": "Salvar configurações",
+    "description": "Texto no botão de salvar"
+  },
+  "saveSuccess": {
+    "message": "Configurações salvas com sucesso!",
+    "description": "Mensagem de sucesso após salvar"
+  },
+  "saveError": {
+    "message": "Falha ao salvar as configurações.",
+    "description": "Mensagem de erro quando a gravação falha"
+  }
+}

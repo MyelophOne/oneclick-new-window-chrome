@@ -1,0 +1,46 @@
+{
+  "extensionName": {
+    "message": "Открыватель нового окна",
+    "description": "Название расширения"
+  },
+  "extensionDescription": {
+    "message": "Открывает новое окно браузера одним кликом",
+    "description": "Описание расширения"
+  },
+  "actionTitle": {
+    "message": "Новое окно",
+    "description": "Заголовок при наведении на иконку расширения"
+  },
+  "optionsTitle": {
+    "message": "Настройки Открывателя нового окна",
+    "description": "Заголовок страницы настроек"
+  },
+  "optionsThemeLabel": {
+    "message": "Тема иконки:",
+    "description": "Подпись для выбора темы иконки"
+  },
+  "optionsThemeLight": {
+    "message": "Иконка светлой темы",
+    "description": "Опция для иконки светлой темы"
+  },
+  "optionsThemeDark": {
+    "message": "Иконка тёмной темы",
+    "description": "Опция для иконки тёмной темы"
+  },
+  "optionsThemeDescription": {
+    "message": "Выберите, какую иконку отображать для кнопки расширения.",
+    "description": "Описание под выбором темы"
+  },
+  "saveButton": {
+    "message": "Сохранить настройки",
+    "description": "Текст на кнопке сохранения"
+  },
+  "saveSuccess": {
+    "message": "Настройки успешно сохранены!",
+    "description": "Сообщение об успешном сохранении"
+  },
+  "saveError": {
+    "message": "Не удалось сохранить настройки.",
+    "description": "Сообщение об ошибке при сохранении"
+  }
+}

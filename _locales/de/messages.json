@@ -1,0 +1,46 @@
+{
+  "extensionName": {
+    "message": "OneClick New Window",
+    "description": "Name der Erweiterung"
+  },
+  "extensionDescription": {
+    "message": "Öffnet ein neues Browserfenster mit einem einzigen Klick",
+    "description": "Beschreibung der Erweiterung"
+  },
+  "actionTitle": {
+    "message": "Neues Fenster",
+    "description": "Titel, der angezeigt wird, wenn man mit der Maus über das Erweiterungssymbol fährt"
+  },
+  "optionsTitle": {
+    "message": "OneClick New Window Einstellungen",
+    "description": "Titel der Optionsseite"
+  },
+  "optionsThemeLabel": {
+    "message": "Symbol-Design:",
+    "description": "Beschriftung für das Dropdown-Menü zur Designauswahl"
+  },
+  "optionsThemeLight": {
+    "message": "Helles Symbol-Design",
+    "description": "Option für ein helles Symbol-Design"
+  },
+  "optionsThemeDark": {
+    "message": "Dunkles Symbol-Design",
+    "description": "Option für ein dunkles Symbol-Design"
+  },
+  "optionsThemeDescription": {
+    "message": "Wählen Sie aus, welches Symbol für die Erweiterungsschaltfläche angezeigt werden soll.",
+    "description": "Beschreibungstext unter der Designauswahl"
+  },
+  "saveButton": {
+    "message": "Einstellungen speichern",
+    "description": "Text auf der Schaltfläche zum Speichern"
+  },
+  "saveSuccess": {
+    "message": "Einstellungen erfolgreich gespeichert!",
+    "description": "Erfolgsmeldung nach dem Speichern"
+  },
+  "saveError": {
+    "message": "Fehler beim Speichern der Einstellungen.",
+    "description": "Fehlermeldung, wenn das Speichern fehlschlägt"
+  }
+}

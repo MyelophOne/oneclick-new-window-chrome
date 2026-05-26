@@ -1,0 +1,46 @@
+{
+  "extensionName": {
+    "message": "OneClick New Window",
+    "description": "एक्स्टेंशन का नाम"
+  },
+  "extensionDescription": {
+    "message": "एक क्लिक में एक नया ब्राउज़र विंडो खोलता है",
+    "description": "एक्स्टेंशन का विवरण"
+  },
+  "actionTitle": {
+    "message": "नई विंडो",
+    "description": "एक्स्टेंशन आइकन पर कर्सर ले जाने पर दिखने वाला शीर्षक"
+  },
+  "optionsTitle": {
+    "message": "OneClick New Window सेटिंग्स",
+    "description": "ऑप्शन पेज का शीर्षक"
+  },
+  "optionsThemeLabel": {
+    "message": "आइकन थीम:",
+    "description": "थीम चयन ड्रॉपडाउन के लिए लेबल"
+  },
+  "optionsThemeLight": {
+    "message": "लाइट थीम आइकन",
+    "description": "लाइट थीम आइकन के लिए विकल्प"
+  },
+  "optionsThemeDark": {
+    "message": "डार्क थीम आइकन",
+    "description": "डार्क थीम आइकन के लिए विकल्प"
+  },
+  "optionsThemeDescription": {
+    "message": "एक्स्टेंशन बटन के लिए कौन सा आइकन दिखाना है, उसे चुनें।",
+    "description": "थीम चयन के नीचे विवरण टेक्स्ट"
+  },
+  "saveButton": {
+    "message": "सेटिंग्स सहेजें",
+    "description": "सेव बटन पर टेक्स्ट"
+  },
+  "saveSuccess": {
+    "message": "सेटिंग्स सफलतापूर्वक सहेजी गईं!",
+    "description": "सहेजने के बाद सफलता का संदेश"
+  },
+  "saveError": {
+    "message": "सेटिंग्स सहेजने में विफल।",
+    "description": "सहेजने में विफल होने पर त्रुटि संदेश"
+  }
+}

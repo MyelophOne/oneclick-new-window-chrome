@@ -1,0 +1,46 @@
+{
+  "extensionName": {
+    "message": "OneClick New Window",
+    "description": "Uzantının adı"
+  },
+  "extensionDescription": {
+    "message": "Tek bir tıklamayla yeni bir tarayıcı penceresi açar",
+    "description": "Uzantının açıklaması"
+  },
+  "actionTitle": {
+    "message": "Yeni Pencere",
+    "description": "Uzantı simgesinin üzerine gelindiğinde gösterilen başlık"
+  },
+  "optionsTitle": {
+    "message": "OneClick New Window Ayarları",
+    "description": "Seçenekler sayfasının başlığı"
+  },
+  "optionsThemeLabel": {
+    "message": "Simge Teması:",
+    "description": "Tema seçimi açılır menüsü için etiket"
+  },
+  "optionsThemeLight": {
+    "message": "Açık tema simgesi",
+    "description": "Açık tema simgesi seçeneği"
+  },
+  "optionsThemeDark": {
+    "message": "Koyu tema simgesi",
+    "description": "Koyu tema simgesi seçeneği"
+  },
+  "optionsThemeDescription": {
+    "message": "Uzantı düğmesi için hangi simgenin görüntüleneceğini seçin.",
+    "description": "Tema seçiminin altındaki açıklama metni"
+  },
+  "saveButton": {
+    "message": "Ayarları Kaydet",
+    "description": "Kaydet düğmesindeki metin"
+  },
+  "saveSuccess": {
+    "message": "Ayarlar başarıyla kaydedildi!",
+    "description": "Kaydedildikten sonraki başarı mesajı"
+  },
+  "saveError": {
+    "message": "Ayarlar kaydedilemedi.",
+    "description": "Kaydetme başarısız olduğunda hata mesajı"
+  }
+}

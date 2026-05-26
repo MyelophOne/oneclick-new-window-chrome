@@ -1,0 +1,46 @@
+{
+  "extensionName": {
+    "message": "OneClick New Window",
+    "description": "拡張機能の名前"
+  },
+  "extensionDescription": {
+    "message": "ワンクリックで新しいブラウザウィンドウを開きます",
+    "description": "拡張機能の説明"
+  },
+  "actionTitle": {
+    "message": "新しいウィンドウ",
+    "description": "拡張機能のアイコンにホバーしたときに表示されるタイトル"
+  },
+  "optionsTitle": {
+    "message": "OneClick New Window 設定",
+    "description": "オプションページのタイトル"
+  },
+  "optionsThemeLabel": {
+    "message": "アイコンのテーマ:",
+    "description": "テーマ選択ドロップダウンのラベル"
+  },
+  "optionsThemeLight": {
+    "message": "ライトテーマのアイコン",
+    "description": "ライトテーマアイコンのオプション"
+  },
+  "optionsThemeDark": {
+    "message": "ダークテーマのアイコン",
+    "description": "ダークテーマアイコンのオプション"
+  },
+  "optionsThemeDescription": {
+    "message": "拡張機能ボタンに表示するアイコンを選択します。",
+    "description": "テーマ選択の下にある説明テキスト"
+  },
+  "saveButton": {
+    "message": "設定を保存",
+    "description": "保存ボタンのテキスト"
+  },
+  "saveSuccess": {
+    "message": "設定が正常に保存されました！",
+    "description": "保存成功時のメッセージ"
+  },
+  "saveError": {
+    "message": "設定の保存に失敗しました。",
+    "description": "保存失敗時のエラーメッセージ"
+  }
+}

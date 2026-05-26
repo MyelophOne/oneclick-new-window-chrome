@@ -1,0 +1,46 @@
+{
+  "extensionName": {
+    "message": "OneClick New Window",
+    "description": "扩展名称"
+  },
+  "extensionDescription": {
+    "message": "只需点击一下即可打开新的浏览器窗口",
+    "description": "扩展描述"
+  },
+  "actionTitle": {
+    "message": "新窗口",
+    "description": "悬停在扩展图标上时显示的标题"
+  },
+  "optionsTitle": {
+    "message": "OneClick New Window 设置",
+    "description": "选项页面的标题"
+  },
+  "optionsThemeLabel": {
+    "message": "图标主题：",
+    "description": "主题选择下拉菜单的标签"
+  },
+  "optionsThemeLight": {
+    "message": "浅色主题图标",
+    "description": "浅色主题图标的选项"
+  },
+  "optionsThemeDark": {
+    "message": "深色主题图标",
+    "description": "深色主题图标的选项"
+  },
+  "optionsThemeDescription": {
+    "message": "选择要在扩展按钮上显示的图标。",
+    "description": "主题选择下方的 tube 描述文本"
+  },
+  "saveButton": {
+    "message": "保存设置",
+    "description": "保存按钮上的文本"
+  },
+  "saveSuccess": {
+    "message": "设置保存成功！",
+    "description": "保存成功后的提示消息"
+  },
+  "saveError": {
+    "message": "保存设置失败。",
+    "description": "保存失败时的错误消息"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extensionName": {
+    "message": "OneClick New Window",
+    "description": "Nazwa rozszerzenia"
+  },
+  "extensionDescription": {
+    "message": "Otwiera nowe okno przeglądarki za pomocą jednego kliknięcia",
+    "description": "Opis rozszerzenia"
+  },
+  "actionTitle": {
+    "message": "Nowe okno",
+    "description": "Tytuł wyświetlany po najechaniu kursorem na ikonę rozszerzenia"
+  },
+  "optionsTitle": {
+    "message": "Ustawienia OneClick New Window",
+    "description": "Tytuł strony opcji"
+  },
+  "optionsThemeLabel": {
+    "message": "Motyw ikony:",
+    "description": "Etykieta listy rozwijanej wyboru motywu"
+  },
+  "optionsThemeLight": {
+    "message": "Jasny motyw ikony",
+    "description": "Opcja dla jasnego motywu ikony"
+  },
+  "optionsThemeDark": {
+    "message": "Ciemny motyw ikony",
+    "description": "Opcja dla ciemnego motywu ikony"
+  },
+  "optionsThemeDescription": {
+    "message": "Wybierz ikonę, która ma być wyświetlana na przycisku rozszerzenia.",
+    "description": "Tekst opisu pod wyborem motywu"
+  },
+  "saveButton": {
+    "message": "Zapisz ustawienia",
+    "description": "Tekst na przycisku zapisu"
+  },
+  "saveSuccess": {
+    "message": "Ustawienia zostały zapisane pomyślnie!",
+    "description": "Komunikat o sukcesie po zapisaniu"
+  },
+  "saveError": {
+    "message": "Nie udało się zapisać ustawień.",
+    "description": "Komunikat o błędzie, gdy zapisywanie się nie powiedzie"
+  }
+}

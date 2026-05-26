@@ -1,0 +1,46 @@
+{
+  "extensionName": {
+    "message": "OneClick New Window",
+    "description": "Назва розширення"
+  },
+  "extensionDescription": {
+    "message": "Відкриває нове вікно браузера в один клік",
+    "description": "Опис розширення"
+  },
+  "actionTitle": {
+    "message": "Нове вікно",
+    "description": "Назва, яка відображається при наведенні курсору на іконку розширення"
+  },
+  "optionsTitle": {
+    "message": "Налаштування OneClick New Window",
+    "description": "Заголовок сторінки опцій"
+  },
+  "optionsThemeLabel": {
+    "message": "Тема іконки:",
+    "description": "Мітка для випадаючого списку вибору теми"
+  },
+  "optionsThemeLight": {
+    "message": "Світла тема іконки",
+    "description": "Варіант для світлої теми іконки"
+  },
+  "optionsThemeDark": {
+    "message": "Темна тема іконки",
+    "description": "Варіант для темної теми іконки"
+  },
+  "optionsThemeDescription": {
+    "message": "Виберіть іконку, яка буде відображатися для кнопки розширення.",
+    "description": "Текст опису під вибором теми"
+  },
+  "saveButton": {
+    "message": "Зберегти налаштування",
+    "description": "Текст на кнопці збереження"
+  },
+  "saveSuccess": {
+    "message": "Налаштування успішно збережено!",
+    "description": "Повідомлення про успіх після збереження"
+  },
+  "saveError": {
+    "message": "Не вдалося зберегти налаштування.",
+    "description": "Повідомлення про помилку, якщо збереження завершилося невдачею"
+  }
+}

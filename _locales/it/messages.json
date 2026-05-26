@@ -1,0 +1,46 @@
+{
+  "extensionName": {
+    "message": "OneClick New Window",
+    "description": "Nom de l'extension"
+  },
+  "extensionDescription": {
+    "message": "Ouvre une nouvelle fenêtre de navigateur en un seul clic",
+    "description": "Description de l'extension"
+  },
+  "actionTitle": {
+    "message": "Nouvelle fenêtre",
+    "description": "Titre affiché au survol de l'icône de l'extension"
+  },
+  "optionsTitle": {
+    "message": "Paramètres de OneClick New Window",
+    "description": "Titre de la page des options"
+  },
+  "optionsThemeLabel": {
+    "message": "Thème de l'icône :",
+    "description": "Étiquette du menu déroulant de sélection du thème"
+  },
+  "optionsThemeLight": {
+    "message": "Thème d'icône clair",
+    "description": "Option pour l'icône du thème clair"
+  },
+  "optionsThemeDark": {
+    "message": "Thème d'icône sombre",
+    "description": "Option pour l'icône du thème sombre"
+  },
+  "optionsThemeDescription": {
+    "message": "Choisissez l'icône à afficher pour le bouton de l'extension.",
+    "description": "Texte de description sous la sélection du thème"
+  },
+  "saveButton": {
+    "message": "Enregistrer les paramètres",
+    "description": "Texte sur le bouton d'enregistrement"
+  },
+  "saveSuccess": {
+    "message": "Paramètres enregistrés avec succès !",
+    "description": "Message de réussite après l'enregistrement"
+  },
+  "saveError": {
+    "message": "Échec de l'enregistrement des paramètres.",
+    "description": "Message d'erreur en cas d'échec de l'enregistrement"
+  }
+}

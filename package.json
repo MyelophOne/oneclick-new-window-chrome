@@ -1,0 +1,41 @@
+{
+  "name": "@myelophone/oneclick-new-window",
+  "version": "1.0.0",
+  "description": "Chrome extension that opens a new browser window with a single click",
+  "main": "src/scripts/background.js",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "package": "node scripts/package.js",
+    "biome:check": "biome check --write ./src",
+    "biome:format": "biome format --fix ./src",
+    "biome:all": "biome format --fix .",
+    "upgrade": "npx nuxi upgrade && yarn postinstall",
+    "update": "yarn upgrade-interactive",
+    "clear": "yarn cache clean",
+    "audit": "yarn npm audit",
+    "self-update": "yarn set version berry",
+    "lock-update": "yarn dedupe --strategy highest"
+  },
+  "keywords": [
+    "chrome-extension",
+    "browser",
+    "window",
+    "productivity"
+  ],
+  "author": "Aliaksandr Ivanou",
+  "license": "MIT",
+  "devDependencies": {
+    "@biomejs/biome": "^2.4.15",
+    "sharp": "^0.34.5",
+    "zip-a-folder": "^6.1.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "packageManager": "yarn@4.15.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myelophone/oneclick-new-window-chrome.git"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extensionName": {
+    "message": "OneClick New Window",
+    "description": "Name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Opens a new browser window with a single click",
+    "description": "Description of the extension"
+  },
+  "actionTitle": {
+    "message": "New Window",
+    "description": "Title shown when hovering over the extension icon"
+  },
+  "optionsTitle": {
+    "message": "OneClick New Window Settings",
+    "description": "Title of the options page"
+  },
+  "optionsThemeLabel": {
+    "message": "Icon Theme:",
+    "description": "Label for theme selection dropdown"
+  },
+  "optionsThemeLight": {
+    "message": "Light theme icon",
+    "description": "Option for light theme icon"
+  },
+  "optionsThemeDark": {
+    "message": "Dark theme icon",
+    "description": "Option for dark theme icon"
+  },
+  "optionsThemeDescription": {
+    "message": "Choose which icon to display for the extension button.",
+    "description": "Description text under theme selection"
+  },
+  "saveButton": {
+    "message": "Save Settings",
+    "description": "Text on save button"
+  },
+  "saveSuccess": {
+    "message": "Settings saved successfully!",
+    "description": "Success message after saving"
+  },
+  "saveError": {
+    "message": "Failed to save settings.",
+    "description": "Error message when saving fails"
+  }
+}

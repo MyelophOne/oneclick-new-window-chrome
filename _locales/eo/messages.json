@@ -1,0 +1,46 @@
+{
+  "extensionName": {
+    "message": "OneClick New Window",
+    "description": "Nomo de la etendaĵo"
+  },
+  "extensionDescription": {
+    "message": "Malfermas novan foliumilan fenestron per unuopa klako",
+    "description": "Priskribo de la etendaĵo"
+  },
+  "actionTitle": {
+    "message": "Nova fenestro",
+    "description": "Titolo montrata kiam oni pasigas la kursoron super la piktogramo de la etendaĵo"
+  },
+  "optionsTitle": {
+    "message": "Agordoj de OneClick New Window",
+    "description": "Titolo de la agorda paĝo"
+  },
+  "optionsThemeLabel": {
+    "message": "Etosa piktogramo:",
+    "description": "Etikedo por la falmenuo de elektado de etoso"
+  },
+  "optionsThemeLight": {
+    "message": "Hela piktograma etoso",
+    "description": "Opcio por hela piktograma etoso"
+  },
+  "optionsThemeDark": {
+    "message": "Malhela piktograma etoso",
+    "description": "Opcio por malhela piktograma etoso"
+  },
+  "optionsThemeDescription": {
+    "message": "Elektu, kiun piktogramon montri por la butono de la etendaĵo.",
+    "description": "Priskriba teksto sub la elektado de etoso"
+  },
+  "saveButton": {
+    "message": "Konservi agordojn",
+    "description": "Teksto sur la konserva butono"
+  },
+  "saveSuccess": {
+    "message": "Agordoj sukcese konservitaj!",
+    "description": "Sukcesa mesaĝo post konservado"
+  },
+  "saveError": {
+    "message": "Malsukcesis konservi la agordojn.",
+    "description": "Erara mesaĝo kiam la konservado malsukcesas"
+  }
+}

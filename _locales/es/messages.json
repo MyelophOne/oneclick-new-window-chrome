@@ -1,0 +1,46 @@
+{
+  "extensionName": {
+    "message": "OneClick New Window",
+    "description": "Nombre de la extensión"
+  },
+  "extensionDescription": {
+    "message": "Abre una nueva ventana del navegador con un solo clic",
+    "description": "Descripción de la extensión"
+  },
+  "actionTitle": {
+    "message": "Nueva ventana",
+    "description": "Título que se muestra al pasar el cursor sobre el icono de la extensión"
+  },
+  "optionsTitle": {
+    "message": "Configuración de OneClick New Window",
+    "description": "Título de la página de opciones"
+  },
+  "optionsThemeLabel": {
+    "message": "Tema del icono:",
+    "description": "Etiqueta para el menú desplegable de selección de tema"
+  },
+  "optionsThemeLight": {
+    "message": "Tema de icono claro",
+    "description": "Opción para el icono del tema claro"
+  },
+  "optionsThemeDark": {
+    "message": "Tema de icono oscuro",
+    "description": "Opción para el icono del tema oscuro"
+  },
+  "optionsThemeDescription": {
+    "message": "Elija qué icono mostrar para el botón de la extensión.",
+    "description": "Texto de descripción debajo de la selección de tema"
+  },
+  "saveButton": {
+    "message": "Guardar configuración",
+    "description": "Texto en el botón de guardar"
+  },
+  "saveSuccess": {
+    "message": "¡Configuración guardada correctamente!",
+    "description": "Mensaje de éxito después de guardar"
+  },
+  "saveError": {
+    "message": "Error al guardar la configuración.",
+    "description": "Mensaje de error cuando falla el guardado"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "extensionName": {
+    "message": "OneClick New Window",
+    "description": "Назва пашырэння"
+  },
+  "extensionDescription": {
+    "message": "Адкрывае новае акно браўзера ў адзін клік",
+    "description": "Апісанне пашырэння"
+  },
+  "actionTitle": {
+    "message": "Новае акно",
+    "description": "Назва, якая адлюстроўваецца пры навядзенні курсора на іконку пашырэння"
+  },
+  "optionsTitle": {
+    "message": "Налады OneClick New Window",
+    "description": "Загаловак старонкі опцый"
+  },
+  "optionsThemeLabel": {
+    "message": "Тэма іконкі:",
+    "description": "Метка для выпадальнага спісу выбару тэмы"
+  },
+  "optionsThemeLight": {
+    "message": "Светлая тэма іконкі",
+    "description": "Варыянт для светлай тэмы іконкі"
+  },
+  "optionsThemeDark": {
+    "message": "Цёмная тэма іконкі",
+    "description": "Варыянт для цёмнай тэмы іконкі"
+  },
+  "optionsThemeDescription": {
+    "message": "Выберыце іконку, якая будзе адлюстроўвацца для кнопкі пашырэння.",
+    "description": "Тэкст апісання пад выбарам тэмы"
+  },
+  "saveButton": {
+    "message": "Захаваць налады",
+    "description": "Тэкст на кнопцы захавання"
+  },
+  "saveSuccess": {
+    "message": "Налады паспяхова захаваны!",
+    "description": "Паведамленне пра поспех пасля захавання"
+  },
+  "saveError": {
+    "message": "Не ўдалося захаваць налады.",
+    "description": "Паведамленне пра памылку, калі захаванне завяршылася няўдачай"
+  }
+}
